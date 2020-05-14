@@ -25,5 +25,5 @@ while (alive) {
 
 Celui qui mange une noix de coco fait confiance à son anus. Comme dirait le grand parrain de tous les temps, la chenille n'a pas besoin de lunettes pour boire l'eau. En parallèle et en lien étroit avec la crocodile qui n'attend pas que le gorille accouche.
 
-Salut, je suis passé par là. Auteur : ruben
+Salut, je suis passé par là. Auteur : Ruben
 >>>>>>> developpement
