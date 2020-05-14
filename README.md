@@ -2,9 +2,9 @@
 ## Ceci est un titre sans originalité. 
 <<<<<<< HEAD
 
-- la question que je me pose c est que ce qu l originalité 
-- ect
-- ect
+- la question que je me pose, c'est : qu'est-ce que l'originalité? 
+- etc
+- etc
 
 =======
 **J'ai la page blanche**. Je suis donc actuellement entrain de rajouter des mots à ce texte afin d'atteindre les trois lignes demandées. C'est génial, n'est-ce pas ? Oh! Nous y voilà. *trois lignes...* 
@@ -23,7 +23,7 @@ while (alive) {
 ```
 ![Jim en action !](https://media.giphy.com/media/fQZX2aoRC1Tqw/source.gif)
 
-Celui qui mange une noix de coco fait confiance à son anus. Comme dirait le grand parrain de tous les temps, la chenille n'a pas besoin de lunette pour boire l'eau. En paralelle et en lien étroit avec la crocodile qui n'attend pas que le gorille accouche.
+Celui qui mange une noix de coco fait confiance à son anus. Comme dirait le grand parrain de tous les temps, la chenille n'a pas besoin de lunettes pour boire l'eau. En parallèle et en lien étroit avec la crocodile qui n'attend pas que le gorille accouche.
 
-salut je suis passé par là auteur : ruben
+Salut, je suis passé par là. Auteur : ruben
 >>>>>>> developpement
